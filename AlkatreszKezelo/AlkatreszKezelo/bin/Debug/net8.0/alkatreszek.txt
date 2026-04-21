@@ -1,0 +1,20 @@
+Ryzen 5 5600X;AMD;Processzor;2020;72000
+Intel Core i5-12400F;Intel;Processzor;2022;65000
+Intel Core i7-12700K;Intel;Processzor;2021;129000
+GeForce RTX 3060;NVIDIA;Videókártya;2021;145000
+MSI GeForce RTX 4070;MSI;Videókártya;2023;289000
+Radeon RX 6700 XT;AMD;Videókártya;2021;180000
+Kingston Fury 16GB;Kingston;Memória;2022;26500
+Corsair Vengeance 32GB;Corsair;Memória;2021;52000
+Samsung 970 EVO Plus 1TB;Samsung;SSD;2021;38900
+Crucial BX500 500GB;Crucial;SSD;2020;17900
+WD Blue SN570 1TB;Western Digital;SSD;2022;34900
+ASUS TUF B550-PLUS;ASUS;Alaplap;2020;54900
+MSI MAG B660M Mortar;MSI;Alaplap;2022;62000
+Gigabyte Z690 AORUS Elite;Gigabyte;Alaplap;2021;89000
+Corsair RM750x;Corsair;Tápegység;2021;42900
+Seasonic Focus GX-650;Seasonic;Tápegység;2020;39900
+Cooler Master Hyper 212;Cooler Master;Hűtés;2019;15900
+Noctua NH-D15;Noctua;Hűtés;2021;42000
+NZXT H510;NZXT;Ház;2020;29900
+Fractal Design Meshify C;Fractal Design;Ház;2021;35900

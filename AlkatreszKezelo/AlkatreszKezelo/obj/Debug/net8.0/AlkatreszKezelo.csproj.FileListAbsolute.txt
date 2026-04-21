@@ -1,0 +1,14 @@
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\bin\Debug\net8.0\AlkatreszKezelo.exe
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\bin\Debug\net8.0\AlkatreszKezelo.deps.json
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\bin\Debug\net8.0\AlkatreszKezelo.runtimeconfig.json
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\bin\Debug\net8.0\AlkatreszKezelo.dll
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\bin\Debug\net8.0\AlkatreszKezelo.pdb
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.AssemblyInfoInputs.cache
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.AssemblyInfo.cs
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.dll
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\refint\AlkatreszKezelo.dll
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.pdb
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\AlkatreszKezelo.genruntimeconfig.cache
+C:\Users\Asus2026\source\repos\AlkatreszKezelo\AlkatreszKezelo\obj\Debug\net8.0\ref\AlkatreszKezelo.dll
