@@ -1,0 +1,14 @@
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\bin\Debug\net8.0\FilmRendezo.exe
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\bin\Debug\net8.0\FilmRendezo.deps.json
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\bin\Debug\net8.0\FilmRendezo.runtimeconfig.json
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\bin\Debug\net8.0\FilmRendezo.dll
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\bin\Debug\net8.0\FilmRendezo.pdb
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.AssemblyInfoInputs.cache
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.AssemblyInfo.cs
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.dll
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\refint\FilmRendezo.dll
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.pdb
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\FilmRendezo.genruntimeconfig.cache
+C:\Users\Asus2026\source\repos\FilmRendezo\FilmRendezo\obj\Debug\net8.0\ref\FilmRendezo.dll

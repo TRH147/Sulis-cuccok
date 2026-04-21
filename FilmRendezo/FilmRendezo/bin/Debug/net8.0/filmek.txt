@@ -1,0 +1,20 @@
+Eredet;Sci-Fi;Christopher Nolan;2010;8.8
+A keresztapa;Dráma;Francis Ford Coppola;1972;9.2
+Titanic;Romantikus;James Cameron;1997;7.8
+A sötét lovag;Akció;Christopher Nolan;2008;9.0
+Forrest Gump;Dráma;Robert Zemeckis;1994;8.8
+A Gyűrűk Ura: A király visszatér;Fantasy;Peter Jackson;2003;9.0
+Harcosok klubja;Dráma;David Fincher;1999;8.8
+Csillagok között;Sci-Fi;Christopher Nolan;2014;8.7
+A remény rabjai;Dráma;Frank Darabont;1994;9.3
+Gladiátor;Akció;Ridley Scott;2000;8.5
+Schindler listája;Történelmi;Steven Spielberg;1993;9.0
+Django elszabadul;Western;Quentin Tarantino;2012;8.4
+A Wall Street farkasa;Életrajzi;Martin Scorsese;2013;8.2
+A halálos iramban;Akció;Rob Cohen;2001;6.8
+Zöld könyv;Életrajzi;Peter Farrelly;2018;8.2
+Mad Max: A harag útja;Akció;George Miller;2015;8.1
+Get Out;Horror;Jordan Peele;2017;7.7
+Avatar;Sci-Fi;James Cameron;2009;7.8
+A nagy Gatsby;Dráma;Baz Luhrmann;2013;7.2
+Az oroszlánkirály;Animáció;Roger Allers, Rob Minkoff;1994;8.5
