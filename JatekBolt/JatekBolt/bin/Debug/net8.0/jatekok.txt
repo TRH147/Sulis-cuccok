@@ -1,0 +1,20 @@
+Monopoly;Társasjáték;Hasbro;7990;15
+Uno kártya;Kártyajáték;Mattel;2990;25
+LEGO Star Wars;Építőjáték;LEGO;24990;10
+Plüss maci;Plüss;TeddyToys;3990;30
+Jenga;Ügyességi játék;Hasbro;4990;20
+Scrabble;Társasjáték;Mattel;8990;8
+Dobble;Kártyajáték;Asmodee;3490;12
+LEGO Technic;Építőjáték;LEGO;32990;5
+Plüss nyuszi;Plüss;TeddyToys;4290;18
+Rummikub;Társasjáték;Goliath;6990;14
+Exploding Kittens;Kártyajáték;Asmodee;5990;7
+LEGO City;Építőjáték;LEGO;19990;4
+Plüss panda;Plüss;TeddyToys;4990;22
+Bop It!;Ügyességi játék;Hasbro;6490;9
+Blokus;Társasjáték;Mattel;7490;11
+Phase 10;Kártyajáték;Mattel;3990;6
+LEGO Harry Potter;Építőjáték;LEGO;21990;3
+Fidget Spinner;Ügyességi játék;SpinMaster;1990;40
+Plüss kutya;Plüss;TeddyToys;4590;17
+LEGO Ninjago;Építőjáték;LEGO;23990;5

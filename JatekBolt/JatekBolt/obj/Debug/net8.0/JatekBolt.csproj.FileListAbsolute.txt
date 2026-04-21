@@ -1,0 +1,14 @@
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\bin\Debug\net8.0\JatekBolt.exe
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\bin\Debug\net8.0\JatekBolt.deps.json
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\bin\Debug\net8.0\JatekBolt.runtimeconfig.json
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\bin\Debug\net8.0\JatekBolt.dll
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\bin\Debug\net8.0\JatekBolt.pdb
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.AssemblyInfoInputs.cache
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.AssemblyInfo.cs
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.dll
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\refint\JatekBolt.dll
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.pdb
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\JatekBolt.genruntimeconfig.cache
+C:\Users\Asus2026\source\repos\JatekBolt\JatekBolt\obj\Debug\net8.0\ref\JatekBolt.dll
