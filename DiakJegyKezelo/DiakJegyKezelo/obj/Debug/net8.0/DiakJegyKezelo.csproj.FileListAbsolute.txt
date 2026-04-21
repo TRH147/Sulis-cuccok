@@ -1,0 +1,14 @@
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\bin\Debug\net8.0\DiakJegyKezelo.exe
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\bin\Debug\net8.0\DiakJegyKezelo.deps.json
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\bin\Debug\net8.0\DiakJegyKezelo.runtimeconfig.json
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\bin\Debug\net8.0\DiakJegyKezelo.dll
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\bin\Debug\net8.0\DiakJegyKezelo.pdb
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.AssemblyInfoInputs.cache
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.AssemblyInfo.cs
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.dll
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\refint\DiakJegyKezelo.dll
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.pdb
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\DiakJegyKezelo.genruntimeconfig.cache
+C:\Users\Asus2026\source\repos\DiakJegyKezelo\DiakJegyKezelo\obj\Debug\net8.0\ref\DiakJegyKezelo.dll
