@@ -1,0 +1,14 @@
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\bin\Debug\net8.0\KonyvtarKezelo.exe
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\bin\Debug\net8.0\KonyvtarKezelo.deps.json
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\bin\Debug\net8.0\KonyvtarKezelo.runtimeconfig.json
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\bin\Debug\net8.0\KonyvtarKezelo.dll
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\bin\Debug\net8.0\KonyvtarKezelo.pdb
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.AssemblyInfoInputs.cache
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.AssemblyInfo.cs
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.dll
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\refint\KonyvtarKezelo.dll
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.pdb
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\KonyvtarKezelo.genruntimeconfig.cache
+C:\Users\Asus2026\source\repos\KonyvtarKezelo\KonyvtarKezelo\obj\Debug\net8.0\ref\KonyvtarKezelo.dll

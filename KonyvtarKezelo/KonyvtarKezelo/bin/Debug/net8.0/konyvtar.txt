@@ -1,0 +1,20 @@
+Az ember tragédiája;Madách Imre;Dráma;1861;420
+A Pál utcai fiúk;Molnár Ferenc;Regény;1906;208
+1984;George Orwell;Sci-Fi;1949;328
+Tüskevár;Fekete István;Ifjúsági;1957;290
+A Gyűrűk Ura;J.R.R. Tolkien;Fantasy;1954;1216
+Bűn és bűnhődés;Fjodor Mihajlovics Dosztojevszkij;Regény;1866;671
+A kőszívű ember fiai;Jókai Mór;Történelem;1869;580
+Sherlock Holmes kalandjai;Arthur Conan Doyle;Krimi;1892;307
+Frankenstein;Mary Shelley;Horror;1818;280
+Harry Potter és a bölcsek köve;J.K. Rowling;Fantasy;1997;336
+Az időgép;H.G. Wells;Sci-Fi;1895;200
+A Da Vinci-kód;Dan Brown;Thriller;2003;489
+Tűz és jég dala;George R.R. Martin;Fantasy;1996;835
+Az éhezők viadala;Suzanne Collins;Ifjúsági;2008;374
+Moby Dick;Herman Melville;Kaland;1851;585
+A kis herceg;Antoine de Saint-Exupéry;Meseregény;1943;96
+A láthatatlan ember;H.G. Wells;Sci-Fi;1897;248
+Gyűlölet, amelyet adtál;Angie Thomas;Regény;2017;444
+A varázshegy;Thomas Mann;Regény;1924;1001
+Fahrenheit 451;Ray Bradbury;Sci-Fi;1953;249
