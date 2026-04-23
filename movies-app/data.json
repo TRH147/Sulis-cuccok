@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Vasember",
+      "director": "Jon Favreau",
+      "cover": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "description": "Tony Stark, a zseni milliárdos fegyvergyáros, saját készítésű páncéljában szuperhőssé válik."
+    },
+    {
+      "id": 2,
+      "title": "A hihetetlen Hulk",
+      "director": "Louis Leterrier",
+      "cover": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "description": "Bruce Banner küzd a benne rejlő szörnyeteggel, miközben üldözik és próbálja megtalálni a gyógyulást."
+    },
+    {
+      "id": 3,
+      "title": "Thor",
+      "director": "Kenneth Branagh",
+      "cover": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "description": "A száműzött asgardi isten a Földön tanul alázatot, miközben testvére fenyegeti a világokat."
+    },
+    {
+      "id": 4,
+      "title": "Amerika Kapitány: Az első bosszúálló",
+      "director": "Joe Johnston",
+      "cover": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "description": "Steve Rogers egy kísérlet révén szuperkatonává válik, és harcba indul a HYDRA ellen."
+    },
+    {
+      "id": 5,
+      "title": "Bosszúállók",
+      "director": "Joss Whedon",
+      "cover": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "description": "A Marvel hősei összefognak, hogy megállítsák Lokit és megmentsék a Földet."
+    },
+    {
+      "id": 6,
+      "title": "Galaxis őrzői",
+      "director": "James Gunn",
+      "cover": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "description": "Egy csapat különc galaktikus bűnöző próbálja megmenteni az univerzumot egy hatalmas fenyegetéstől."
+    },
+    {
+      "id": 7,
+      "title": "Fekete Párduc",
+      "director": "Ryan Coogler",
+      "cover": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "description": "T’Challa, Wakanda királya, megvédi országát és örökségét egy veszélyes ellenségtől."
+    },
+    {
+      "id": 8,
+      "title": "Bosszúállók: Végjáték",
+      "director": "Anthony és Joe Russo",
+      "cover": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "description": "A hősök utolsó nagy összecsapásra készülnek Thanos ellen, hogy helyreállítsák az univerzum rendjét."
+    }
+  ]
+}
