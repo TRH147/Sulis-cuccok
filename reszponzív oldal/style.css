@@ -1,0 +1,33 @@
+body{
+    padding-top: 70px;
+    background-color: #f8f9fa;
+}
+
+/* Hero section */
+.hero-section{
+    min-height: 90vh;
+    background: linear-gradient(135deg, #0d6efd, #198754);
+}
+
+/* Kártyák */
+.shoe-card{
+    transition: all 0.3s ease;
+    border: none;
+    overflow: hidden;
+}
+
+.shoe-card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+}
+
+/* Képek */
+.card-img-top{
+    height: 250px;
+    object-fit: cover;
+}
+
+/* Gomb */
+.btn-success{
+    font-weight: 600;
+}
