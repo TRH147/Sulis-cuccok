@@ -1,2 +1,19 @@
 Ez a CRUD múveletes vizsga feladat.
 Controllernél az API-n belül a HARMADIK opció kell
+
+<ItemGroup>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.24" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.24">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.24" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.24">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.23" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+Ezek kellenek minden konzolos alkalmazáshoz.
